@@ -33,3 +33,6 @@ type RRule struct {
 	ByYearDay  []int
 	ByWeekNo   []int
 }
+
+var a = 1
+var b = 2
